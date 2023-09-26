@@ -7,6 +7,8 @@ Below is the description of each code.
 
 2) Task Automation
    Here are  codes to make some task to be automated.
+   
    First, "Excel_Combining" is to combine all the contents of Excel sheets into an integrated data Frame.
+   
    Second, "Combining Word Table" is the code to extract all the contents of the Word file into the data frame and then preprocess it to the integrated data and CSV format.
 
