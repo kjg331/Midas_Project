@@ -2,7 +2,7 @@
 This is the sort of code I did when I worked for MIDAS IT, and they are not related to any official business of MIDAS IT company.
 Below is the description of each code.
 
-1) 1) Communication Labeler
+1) Communication Labeler
 
    This is the code for labeling communication among teammates. This is built with semi-supervised, which at first some amounts of the communication was labeled by humans and then labeled my machine learning techniques.
 
